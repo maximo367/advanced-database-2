@@ -6,5 +6,5 @@ description: "Displays more stats in database. Unhides few things. Multiplayer c
 repo: https://github.com/maximo367/advanced-database-2.git
 version: 1.1
 minGameVersion: 147
-java: false
+java: true
 hidden: false
