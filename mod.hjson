@@ -3,7 +3,7 @@ name: "advanced-database-2"
 author: "maximo367"
 main: "advanced.Main"
 description: "Displays more stats in database. Unhides few things. Multiplayer compatible.\nПоказывает больше информации в базе данных. Открывает пару скрытых вещей. Не влияет на игру по сети"
-repo: "https://github.com/maximo367/advanced-database-2.git"
+repo: git@github.com:maximo367/advanced-database-2.git
 version: 1.1
 minGameVersion: 147
 java: false
